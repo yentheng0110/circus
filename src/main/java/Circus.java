@@ -1,6 +1,9 @@
 import circus.animal.Animal;
 import circus.animal.Duck;
 import circus.animal.Parrot;
+import circus.stuff.Cannon;
+import circus.stuff.Equipment;
+import circus.stuff.Ladder;
 
 public class Circus {
     private static Animal[] animals = {
